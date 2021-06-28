@@ -1,4 +1,4 @@
-![](images/preview1.png)
+![](images/banner.png)
 
 # transprimes.bash
 
@@ -19,8 +19,8 @@ Each digit represents an integer (starting from zero). If that number is a prime
 
 Works for variable window dimensions (although it will take longer):
 
-![](images/preview0.png)
+![](images/preview_small.png)
 
-![](images/preview2.png)
+![](images/preview_medium.png)
 
-![](images/preview3.png)
+![](images/preview_large.png)
